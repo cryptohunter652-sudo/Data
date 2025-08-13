@@ -1,4 +1,4 @@
-herename: Flutter APK Build
+name: Flutter APK Build
 
 on:
   push:
